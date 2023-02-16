@@ -34429,3 +34429,1339 @@
 
 2023-02-15 22:07:06.172500 - Table USC00259090 Skipped duplicate record
 
+2023-02-15 22:31:03.727272 - Table USC00257715 Skipped duplicate record
+
+2023-02-15 22:31:03.731664 - Table USC00113879 Skipped duplicate record
+
+2023-02-15 22:31:03.734840 - Table USC00127935 Skipped duplicate record
+
+2023-02-15 22:31:03.738938 - Table USC00112193 Skipped duplicate record
+
+2023-02-15 22:31:03.743267 - Table USC00250640 Skipped duplicate record
+
+2023-02-15 22:31:03.747655 - Table USC00257070 Skipped duplicate record
+
+2023-02-15 22:31:03.751538 - Table USC00114442 Skipped duplicate record
+
+2023-02-15 22:31:03.755612 - Table USC00115833 Skipped duplicate record
+
+2023-02-15 22:31:03.760256 - Table USC00130133 Skipped duplicate record
+
+2023-02-15 22:31:03.764457 - Table USC00132724 Skipped duplicate record
+
+2023-02-15 22:31:03.768087 - Table USC00250130 Skipped duplicate record
+
+2023-02-15 22:31:03.770638 - Table USC00256970 Skipped duplicate record
+
+2023-02-15 22:31:03.774654 - Table USC00116446 Skipped duplicate record
+
+2023-02-15 22:31:03.779341 - Table USC00253175 Skipped duplicate record
+
+2023-02-15 22:31:03.782372 - Table USC00129113 Skipped duplicate record
+
+2023-02-15 22:31:03.785295 - Table USC00134142 Skipped duplicate record
+
+2023-02-15 22:31:03.787974 - Table USC00121229 Skipped duplicate record
+
+2023-02-15 22:31:03.792375 - Table USC00116526 Skipped duplicate record
+
+2023-02-15 22:31:03.795748 - Table USC00259510 Skipped duplicate record
+
+2023-02-15 22:31:03.798280 - Table USC00255470 Skipped duplicate record
+
+2023-02-15 22:31:03.801398 - Table USC00257515 Skipped duplicate record
+
+2023-02-15 22:31:03.804715 - Table USC00258395 Skipped duplicate record
+
+2023-02-15 22:31:03.807650 - Table USC00338313 Skipped duplicate record
+
+2023-02-15 22:31:03.810735 - Table USC00131402 Skipped duplicate record
+
+2023-02-15 22:31:03.813958 - Table USC00118916 Skipped duplicate record
+
+2023-02-15 22:31:03.817087 - Table USC00124181 Skipped duplicate record
+
+2023-02-15 22:31:03.820167 - Table USC00128036 Skipped duplicate record
+
+2023-02-15 22:31:03.822883 - Table USC00126580 Skipped duplicate record
+
+2023-02-15 22:31:03.827383 - Table USC00129670 Skipped duplicate record
+
+2023-02-15 22:31:03.830561 - Table USC00115943 Skipped duplicate record
+
+2023-02-15 22:31:03.832841 - Table USC00124008 Skipped duplicate record
+
+2023-02-15 22:31:03.835905 - Table USC00116910 Skipped duplicate record
+
+2023-02-15 22:31:03.838730 - Table USC00114108 Skipped duplicate record
+
+2023-02-15 22:31:03.841819 - Table USC00127298 Skipped duplicate record
+
+2023-02-15 22:31:03.844902 - Table USC00110187 Skipped duplicate record
+
+2023-02-15 22:31:03.848065 - Table USC00253365 Skipped duplicate record
+
+2023-02-15 22:31:03.851246 - Table USC00251200 Skipped duplicate record
+
+2023-02-15 22:31:03.854115 - Table USC00112140 Skipped duplicate record
+
+2023-02-15 22:31:03.856933 - Table USC00253615 Skipped duplicate record
+
+2023-02-15 22:31:03.860334 - Table USC00255310 Skipped duplicate record
+
+2023-02-15 22:31:03.863540 - Table USC00132864 Skipped duplicate record
+
+2023-02-15 22:31:03.865963 - Table USC00129511 Skipped duplicate record
+
+2023-02-15 22:31:03.869024 - Table USC00118740 Skipped duplicate record
+
+2023-02-15 22:31:03.871944 - Table USC00333780 Skipped duplicate record
+
+2023-02-15 22:31:03.875150 - Table USC00254900 Skipped duplicate record
+
+2023-02-15 22:31:03.878451 - Table USC00255565 Skipped duplicate record
+
+2023-02-15 22:31:03.881227 - Table USC00250435 Skipped duplicate record
+
+2023-02-15 22:31:03.884810 - Table USC00252020 Skipped duplicate record
+
+2023-02-15 22:31:03.887516 - Table USC00138296 Skipped duplicate record
+
+2023-02-15 22:31:03.890215 - Table USC00132977 Skipped duplicate record
+
+2023-02-15 22:31:03.893144 - Table USC00118147 Skipped duplicate record
+
+2023-02-15 22:31:03.895849 - Table USC00250622 Skipped duplicate record
+
+2023-02-15 22:31:03.899050 - Table USC00331592 Skipped duplicate record
+
+2023-02-15 22:31:03.902209 - Table USC00258915 Skipped duplicate record
+
+2023-02-15 22:31:03.905352 - Table USC00250420 Skipped duplicate record
+
+2023-02-15 22:31:03.908298 - Table USC00338830 Skipped duplicate record
+
+2023-02-15 22:31:03.910596 - Table USC00115515 Skipped duplicate record
+
+2023-02-15 22:31:03.913245 - Table USC00120784 Skipped duplicate record
+
+2023-02-15 22:31:03.916181 - Table USC00112483 Skipped duplicate record
+
+2023-02-15 22:31:03.919046 - Table USC00332098 Skipped duplicate record
+
+2023-02-15 22:31:03.922001 - Table USC00116579 Skipped duplicate record
+
+2023-02-15 22:31:03.924821 - Table USC00137979 Skipped duplicate record
+
+2023-02-15 22:31:03.927838 - Table USC00258480 Skipped duplicate record
+
+2023-02-15 22:31:03.930622 - Table USC00258133 Skipped duplicate record
+
+2023-02-15 22:31:03.933570 - Table USC00115712 Skipped duplicate record
+
+2023-02-15 22:31:03.936580 - Table USC00331152 Skipped duplicate record
+
+2023-02-15 22:31:03.939183 - Table USC00335297 Skipped duplicate record
+
+2023-02-15 22:31:03.942094 - Table USC00334189 Skipped duplicate record
+
+2023-02-15 22:31:03.944867 - Table USC00253660 Skipped duplicate record
+
+2023-02-15 22:31:03.948126 - Table USC00137161 Skipped duplicate record
+
+2023-02-15 22:31:03.950761 - Table USC00336600 Skipped duplicate record
+
+2023-02-15 22:31:03.952665 - Table USC00253715 Skipped duplicate record
+
+2023-02-15 22:31:03.955975 - Table USC00338822 Skipped duplicate record
+
+2023-02-15 22:31:03.959496 - Table USC00256135 Skipped duplicate record
+
+2023-02-15 22:31:03.963031 - Table USC00254440 Skipped duplicate record
+
+2023-02-15 22:31:03.966279 - Table USC00132999 Skipped duplicate record
+
+2023-02-15 22:31:03.969463 - Table USC00335041 Skipped duplicate record
+
+2023-02-15 22:31:03.973520 - Table USC00331541 Skipped duplicate record
+
+2023-02-15 22:31:03.978194 - Table USC00135952 Skipped duplicate record
+
+2023-02-15 22:31:03.981876 - Table USC00256040 Skipped duplicate record
+
+2023-02-15 22:31:03.985372 - Table USC00134735 Skipped duplicate record
+
+2023-02-15 22:31:03.989170 - Table USC00123513 Skipped duplicate record
+
+2023-02-15 22:31:03.993295 - Table USC00129557 Skipped duplicate record
+
+2023-02-15 22:31:03.997698 - Table USC00114198 Skipped duplicate record
+
+2023-02-15 22:31:04.001122 - Table USC00252820 Skipped duplicate record
+
+2023-02-15 22:31:04.005159 - Table USC00120177 Skipped duplicate record
+
+2023-02-15 22:31:04.009355 - Table USC00134894 Skipped duplicate record
+
+2023-02-15 22:31:04.012818 - Table USC00130600 Skipped duplicate record
+
+2023-02-15 22:31:04.016661 - Table USC00137147 Skipped duplicate record
+
+2023-02-15 22:31:04.019470 - Table USC00116610 Skipped duplicate record
+
+2023-02-15 22:31:04.022426 - Table USC00126705 Skipped duplicate record
+
+2023-02-15 22:31:04.026435 - Table USC00339312 Skipped duplicate record
+
+2023-02-15 22:31:04.031018 - Table USC00336196 Skipped duplicate record
+
+2023-02-15 22:31:04.033917 - Table USC00134063 Skipped duplicate record
+
+2023-02-15 22:31:04.035819 - Table USC00332119 Skipped duplicate record
+
+2023-02-15 22:31:04.040189 - Table USC00120200 Skipped duplicate record
+
+2023-02-15 22:31:04.044629 - Table USC00258465 Skipped duplicate record
+
+2023-02-15 22:31:04.047578 - Table USC00115326 Skipped duplicate record
+
+2023-02-15 22:31:04.050486 - Table USC00338769 Skipped duplicate record
+
+2023-02-15 22:31:04.054372 - Table USC00116558 Skipped duplicate record
+
+2023-02-15 22:31:04.057771 - Table USC00115079 Skipped duplicate record
+
+2023-02-15 22:31:04.062077 - Table USC00253735 Skipped duplicate record
+
+2023-02-15 22:31:04.065245 - Table USC00333758 Skipped duplicate record
+
+2023-02-15 22:31:04.068805 - Table USC00335315 Skipped duplicate record
+
+2023-02-15 22:31:04.072970 - Table USC00252205 Skipped duplicate record
+
+2023-02-15 22:31:04.077243 - Table USC00125237 Skipped duplicate record
+
+2023-02-15 22:31:04.081250 - Table USC00333375 Skipped duplicate record
+
+2023-02-15 22:31:04.084181 - Table USC00338552 Skipped duplicate record
+
+2023-02-15 22:31:04.086820 - Table USC00132789 Skipped duplicate record
+
+2023-02-15 22:31:04.090816 - Table USC00250375 Skipped duplicate record
+
+2023-02-15 22:31:04.095271 - Table USC00138688 Skipped duplicate record
+
+2023-02-15 22:31:04.099332 - Table USC00115901 Skipped duplicate record
+
+2023-02-15 22:31:04.101905 - Table USC00122149 Skipped duplicate record
+
+2023-02-15 22:31:04.105801 - Table USC00114823 Skipped duplicate record
+
+2023-02-15 22:31:04.109602 - Table USC00110338 Skipped duplicate record
+
+2023-02-15 22:31:04.112719 - Table USC00121873 Skipped duplicate record
+
+2023-02-15 22:31:04.115623 - Table USC00123527 Skipped duplicate record
+
+2023-02-15 22:31:04.118172 - Table USC00127755 Skipped duplicate record
+
+2023-02-15 22:31:04.120938 - Table USC00111436 Skipped duplicate record
+
+2023-02-15 22:31:04.123775 - Table USC00110072 Skipped duplicate record
+
+2023-02-15 22:31:04.127133 - Table USC00131533 Skipped duplicate record
+
+2023-02-15 22:31:04.130170 - Table USC00135769 Skipped duplicate record
+
+2023-02-15 22:31:04.133509 - Table USC00135796 Skipped duplicate record
+
+2023-02-15 22:31:04.137617 - Table USC00119241 Skipped duplicate record
+
+2023-02-15 22:31:04.140743 - Table USC00336781 Skipped duplicate record
+
+2023-02-15 22:31:04.144083 - Table USC00254110 Skipped duplicate record
+
+2023-02-15 22:31:04.147683 - Table USC00253910 Skipped duplicate record
+
+2023-02-15 22:31:04.150959 - Table USC00253630 Skipped duplicate record
+
+2023-02-15 22:31:04.154148 - Table USC00126001 Skipped duplicate record
+
+2023-02-15 22:31:04.156678 - Table USC00255080 Skipped duplicate record
+
+2023-02-15 22:31:04.160551 - Table USC00117551 Skipped duplicate record
+
+2023-02-15 22:31:04.164238 - Table USC00121747 Skipped duplicate record
+
+2023-02-15 22:31:04.167164 - Table USC00127875 Skipped duplicate record
+
+2023-02-15 22:31:04.170125 - Table USC00127646 Skipped duplicate record
+
+2023-02-15 22:31:04.172682 - Table USC00111280 Skipped duplicate record
+
+2023-02-15 22:31:04.174983 - Table USC00121425 Skipped duplicate record
+
+2023-02-15 22:31:04.178365 - Table USC00129253 Skipped duplicate record
+
+2023-02-15 22:31:04.182013 - Table USC00250070 Skipped duplicate record
+
+2023-02-15 22:31:04.185026 - Table USC00252840 Skipped duplicate record
+
+2023-02-15 22:31:04.188314 - Table USC00116738 Skipped duplicate record
+
+2023-02-15 22:31:04.189384 - Table USC00253035 Skipped duplicate record
+
+2023-02-15 22:31:04.193475 - Table USC00130112 Skipped duplicate record
+
+2023-02-15 22:31:04.196663 - Table USC00338534 Skipped duplicate record
+
+2023-02-15 22:31:04.200161 - Table USC00115768 Skipped duplicate record
+
+2023-02-15 22:31:04.204144 - Table USC00131635 Skipped duplicate record
+
+2023-02-15 22:31:04.208375 - Table USC00251145 Skipped duplicate record
+
+2023-02-15 22:31:04.212677 - Table USC00252100 Skipped duplicate record
+
+2023-02-15 22:31:04.216628 - Table USC00119354 Skipped duplicate record
+
+2023-02-15 22:31:04.220424 - Table USC00113335 Skipped duplicate record
+
+2023-02-15 22:31:04.224759 - Table USC00256570 Skipped duplicate record
+
+2023-02-15 22:31:04.228172 - Table USC00124837 Skipped duplicate record
+
+2023-02-15 22:31:04.231998 - Table USC00112348 Skipped duplicate record
+
+2023-02-15 22:31:04.235575 - Table USC00332791 Skipped duplicate record
+
+2023-02-15 22:31:04.239711 - Table USC00336118 Skipped duplicate record
+
+2023-02-15 22:31:04.243371 - Table USC00129080 Skipped duplicate record
+
+2023-02-15 22:31:04.247569 - Table USC00127522 Skipped duplicate record
+
+2023-02-15 22:31:04.250569 - Table USC00125337 Skipped duplicate record
+
+2023-02-15 22:31:04.254702 - Table USC00123418 Skipped duplicate record
+
+2023-02-15 22:31:04.258782 - Table USC00127482 Skipped duplicate record
+
+2023-02-15 22:31:04.261826 - Table USC00121030 Skipped duplicate record
+
+2023-02-15 22:31:04.264712 - Table USC00253185 Skipped duplicate record
+
+2023-02-15 22:31:04.267601 - Table USC00331072 Skipped duplicate record
+
+2023-02-15 22:31:04.271487 - Table USC00120676 Skipped duplicate record
+
+2023-02-15 22:31:04.275725 - Table USC00127125 Skipped duplicate record
+
+2023-02-15 22:31:04.279449 - Table USC00331890 Skipped duplicate record
+
+2023-02-15 22:31:04.283818 - Table USC00254985 Skipped duplicate record
+
+2023-02-15 22:31:04.286749 - Table USC00259090 Skipped duplicate record
+
+2023-02-15 22:31:04.411784 - Table USC00257715 Skipped duplicate record
+
+2023-02-15 22:31:04.413762 - Table USC00113879 Skipped duplicate record
+
+2023-02-15 22:31:04.415818 - Table USC00127935 Skipped duplicate record
+
+2023-02-15 22:31:04.418177 - Table USC00112193 Skipped duplicate record
+
+2023-02-15 22:31:04.420399 - Table USC00250640 Skipped duplicate record
+
+2023-02-15 22:31:04.422727 - Table USC00257070 Skipped duplicate record
+
+2023-02-15 22:31:04.424892 - Table USC00114442 Skipped duplicate record
+
+2023-02-15 22:31:04.427177 - Table USC00115833 Skipped duplicate record
+
+2023-02-15 22:31:04.429292 - Table USC00130133 Skipped duplicate record
+
+2023-02-15 22:31:04.431206 - Table USC00132724 Skipped duplicate record
+
+2023-02-15 22:31:04.432910 - Table USC00250130 Skipped duplicate record
+
+2023-02-15 22:31:04.434795 - Table USC00256970 Skipped duplicate record
+
+2023-02-15 22:31:04.436637 - Table USC00116446 Skipped duplicate record
+
+2023-02-15 22:31:04.438540 - Table USC00253175 Skipped duplicate record
+
+2023-02-15 22:31:04.440429 - Table USC00129113 Skipped duplicate record
+
+2023-02-15 22:31:04.442646 - Table USC00134142 Skipped duplicate record
+
+2023-02-15 22:31:04.444173 - Table USC00121229 Skipped duplicate record
+
+2023-02-15 22:31:04.446017 - Table USC00116526 Skipped duplicate record
+
+2023-02-15 22:31:04.447621 - Table USC00259510 Skipped duplicate record
+
+2023-02-15 22:31:04.449204 - Table USC00255470 Skipped duplicate record
+
+2023-02-15 22:31:04.452287 - Table USC00257515 Skipped duplicate record
+
+2023-02-15 22:31:04.455055 - Table USC00258395 Skipped duplicate record
+
+2023-02-15 22:31:04.457948 - Table USC00338313 Skipped duplicate record
+
+2023-02-15 22:31:04.460229 - Table USC00131402 Skipped duplicate record
+
+2023-02-15 22:31:04.463160 - Table USC00118916 Skipped duplicate record
+
+2023-02-15 22:31:04.466244 - Table USC00124181 Skipped duplicate record
+
+2023-02-15 22:31:04.468306 - Table USC00128036 Skipped duplicate record
+
+2023-02-15 22:31:04.471057 - Table USC00126580 Skipped duplicate record
+
+2023-02-15 22:31:04.474283 - Table USC00129670 Skipped duplicate record
+
+2023-02-15 22:31:04.476677 - Table USC00115943 Skipped duplicate record
+
+2023-02-15 22:31:04.478853 - Table USC00124008 Skipped duplicate record
+
+2023-02-15 22:31:04.482036 - Table USC00116910 Skipped duplicate record
+
+2023-02-15 22:31:04.484213 - Table USC00114108 Skipped duplicate record
+
+2023-02-15 22:31:04.487072 - Table USC00127298 Skipped duplicate record
+
+2023-02-15 22:31:04.490142 - Table USC00110187 Skipped duplicate record
+
+2023-02-15 22:31:04.493010 - Table USC00253365 Skipped duplicate record
+
+2023-02-15 22:31:04.495327 - Table USC00251200 Skipped duplicate record
+
+2023-02-15 22:31:04.497483 - Table USC00112140 Skipped duplicate record
+
+2023-02-15 22:31:04.499652 - Table USC00253615 Skipped duplicate record
+
+2023-02-15 22:31:04.501721 - Table USC00255310 Skipped duplicate record
+
+2023-02-15 22:31:04.503637 - Table USC00132864 Skipped duplicate record
+
+2023-02-15 22:31:04.505158 - Table USC00129511 Skipped duplicate record
+
+2023-02-15 22:31:04.508202 - Table USC00118740 Skipped duplicate record
+
+2023-02-15 22:31:04.511639 - Table USC00333780 Skipped duplicate record
+
+2023-02-15 22:31:04.514622 - Table USC00254900 Skipped duplicate record
+
+2023-02-15 22:31:04.517214 - Table USC00255565 Skipped duplicate record
+
+2023-02-15 22:31:04.520400 - Table USC00250435 Skipped duplicate record
+
+2023-02-15 22:31:04.523664 - Table USC00252020 Skipped duplicate record
+
+2023-02-15 22:31:04.526359 - Table USC00138296 Skipped duplicate record
+
+2023-02-15 22:31:04.528578 - Table USC00132977 Skipped duplicate record
+
+2023-02-15 22:31:04.531539 - Table USC00118147 Skipped duplicate record
+
+2023-02-15 22:31:04.533676 - Table USC00250622 Skipped duplicate record
+
+2023-02-15 22:31:04.535648 - Table USC00331592 Skipped duplicate record
+
+2023-02-15 22:31:04.538808 - Table USC00258915 Skipped duplicate record
+
+2023-02-15 22:31:04.541531 - Table USC00250420 Skipped duplicate record
+
+2023-02-15 22:31:04.543862 - Table USC00338830 Skipped duplicate record
+
+2023-02-15 22:31:04.546148 - Table USC00115515 Skipped duplicate record
+
+2023-02-15 22:31:04.549413 - Table USC00120784 Skipped duplicate record
+
+2023-02-15 22:31:04.551542 - Table USC00112483 Skipped duplicate record
+
+2023-02-15 22:31:04.554653 - Table USC00332098 Skipped duplicate record
+
+2023-02-15 22:31:04.557728 - Table USC00116579 Skipped duplicate record
+
+2023-02-15 22:31:04.559856 - Table USC00137979 Skipped duplicate record
+
+2023-02-15 22:31:04.562033 - Table USC00258480 Skipped duplicate record
+
+2023-02-15 22:31:04.563751 - Table USC00258133 Skipped duplicate record
+
+2023-02-15 22:31:04.566541 - Table USC00115712 Skipped duplicate record
+
+2023-02-15 22:31:04.568703 - Table USC00331152 Skipped duplicate record
+
+2023-02-15 22:31:04.571591 - Table USC00335297 Skipped duplicate record
+
+2023-02-15 22:31:04.574815 - Table USC00334189 Skipped duplicate record
+
+2023-02-15 22:31:04.578244 - Table USC00253660 Skipped duplicate record
+
+2023-02-15 22:31:04.581474 - Table USC00137161 Skipped duplicate record
+
+2023-02-15 22:31:04.583753 - Table USC00336600 Skipped duplicate record
+
+2023-02-15 22:31:04.586487 - Table USC00253715 Skipped duplicate record
+
+2023-02-15 22:31:04.589696 - Table USC00338822 Skipped duplicate record
+
+2023-02-15 22:31:04.592994 - Table USC00256135 Skipped duplicate record
+
+2023-02-15 22:31:04.595210 - Table USC00254440 Skipped duplicate record
+
+2023-02-15 22:31:04.598225 - Table USC00132999 Skipped duplicate record
+
+2023-02-15 22:31:04.600737 - Table USC00335041 Skipped duplicate record
+
+2023-02-15 22:31:04.602658 - Table USC00331541 Skipped duplicate record
+
+2023-02-15 22:31:04.605632 - Table USC00135952 Skipped duplicate record
+
+2023-02-15 22:31:04.608465 - Table USC00256040 Skipped duplicate record
+
+2023-02-15 22:31:04.611817 - Table USC00134735 Skipped duplicate record
+
+2023-02-15 22:31:04.614925 - Table USC00123513 Skipped duplicate record
+
+2023-02-15 22:31:04.617159 - Table USC00129557 Skipped duplicate record
+
+2023-02-15 22:31:04.619132 - Table USC00114198 Skipped duplicate record
+
+2023-02-15 22:31:04.622287 - Table USC00252820 Skipped duplicate record
+
+2023-02-15 22:31:04.625622 - Table USC00120177 Skipped duplicate record
+
+2023-02-15 22:31:04.629138 - Table USC00134894 Skipped duplicate record
+
+2023-02-15 22:31:04.632338 - Table USC00130600 Skipped duplicate record
+
+2023-02-15 22:31:04.634591 - Table USC00137147 Skipped duplicate record
+
+2023-02-15 22:31:04.637678 - Table USC00116610 Skipped duplicate record
+
+2023-02-15 22:31:04.640839 - Table USC00126705 Skipped duplicate record
+
+2023-02-15 22:31:04.644224 - Table USC00339312 Skipped duplicate record
+
+2023-02-15 22:31:04.647664 - Table USC00336196 Skipped duplicate record
+
+2023-02-15 22:31:04.650212 - Table USC00134063 Skipped duplicate record
+
+2023-02-15 22:31:04.652127 - Table USC00332119 Skipped duplicate record
+
+2023-02-15 22:31:04.655297 - Table USC00120200 Skipped duplicate record
+
+2023-02-15 22:31:04.658549 - Table USC00258465 Skipped duplicate record
+
+2023-02-15 22:31:04.661893 - Table USC00115326 Skipped duplicate record
+
+2023-02-15 22:31:04.665160 - Table USC00338769 Skipped duplicate record
+
+2023-02-15 22:31:04.667475 - Table USC00116558 Skipped duplicate record
+
+2023-02-15 22:31:04.669577 - Table USC00115079 Skipped duplicate record
+
+2023-02-15 22:31:04.671642 - Table USC00253735 Skipped duplicate record
+
+2023-02-15 22:31:04.673615 - Table USC00333758 Skipped duplicate record
+
+2023-02-15 22:31:04.676497 - Table USC00335315 Skipped duplicate record
+
+2023-02-15 22:31:04.678895 - Table USC00252205 Skipped duplicate record
+
+2023-02-15 22:31:04.682227 - Table USC00125237 Skipped duplicate record
+
+2023-02-15 22:31:04.684645 - Table USC00333375 Skipped duplicate record
+
+2023-02-15 22:31:04.686599 - Table USC00338552 Skipped duplicate record
+
+2023-02-15 22:31:04.689771 - Table USC00132789 Skipped duplicate record
+
+2023-02-15 22:31:04.693208 - Table USC00250375 Skipped duplicate record
+
+2023-02-15 22:31:04.696909 - Table USC00138688 Skipped duplicate record
+
+2023-02-15 22:31:04.699375 - Table USC00115901 Skipped duplicate record
+
+2023-02-15 22:31:04.701173 - Table USC00122149 Skipped duplicate record
+
+2023-02-15 22:31:04.703884 - Table USC00114823 Skipped duplicate record
+
+2023-02-15 22:31:04.705888 - Table USC00110338 Skipped duplicate record
+
+2023-02-15 22:31:04.708996 - Table USC00121873 Skipped duplicate record
+
+2023-02-15 22:31:04.712626 - Table USC00123527 Skipped duplicate record
+
+2023-02-15 22:31:04.715526 - Table USC00127755 Skipped duplicate record
+
+2023-02-15 22:31:04.718050 - Table USC00111436 Skipped duplicate record
+
+2023-02-15 22:31:04.721540 - Table USC00110072 Skipped duplicate record
+
+2023-02-15 22:31:04.724383 - Table USC00131533 Skipped duplicate record
+
+2023-02-15 22:31:04.727218 - Table USC00135769 Skipped duplicate record
+
+2023-02-15 22:31:04.729890 - Table USC00135796 Skipped duplicate record
+
+2023-02-15 22:31:04.732243 - Table USC00119241 Skipped duplicate record
+
+2023-02-15 22:31:04.735142 - Table USC00336781 Skipped duplicate record
+
+2023-02-15 22:31:04.738405 - Table USC00254110 Skipped duplicate record
+
+2023-02-15 22:31:04.741711 - Table USC00253910 Skipped duplicate record
+
+2023-02-15 22:31:04.744263 - Table USC00253630 Skipped duplicate record
+
+2023-02-15 22:31:04.746894 - Table USC00126001 Skipped duplicate record
+
+2023-02-15 22:31:04.749752 - Table USC00255080 Skipped duplicate record
+
+2023-02-15 22:31:04.752016 - Table USC00117551 Skipped duplicate record
+
+2023-02-15 22:31:04.754354 - Table USC00121747 Skipped duplicate record
+
+2023-02-15 22:31:04.756330 - Table USC00127875 Skipped duplicate record
+
+2023-02-15 22:31:04.758631 - Table USC00127646 Skipped duplicate record
+
+2023-02-15 22:31:04.761026 - Table USC00111280 Skipped duplicate record
+
+2023-02-15 22:31:04.762699 - Table USC00121425 Skipped duplicate record
+
+2023-02-15 22:31:04.764860 - Table USC00129253 Skipped duplicate record
+
+2023-02-15 22:31:04.766891 - Table USC00250070 Skipped duplicate record
+
+2023-02-15 22:31:04.768988 - Table USC00252840 Skipped duplicate record
+
+2023-02-15 22:31:04.770689 - Table USC00116738 Skipped duplicate record
+
+2023-02-15 22:31:04.771489 - Table USC00253035 Skipped duplicate record
+
+2023-02-15 22:31:04.773348 - Table USC00130112 Skipped duplicate record
+
+2023-02-15 22:31:04.775492 - Table USC00338534 Skipped duplicate record
+
+2023-02-15 22:31:04.777706 - Table USC00115768 Skipped duplicate record
+
+2023-02-15 22:31:04.779977 - Table USC00131635 Skipped duplicate record
+
+2023-02-15 22:31:04.781968 - Table USC00251145 Skipped duplicate record
+
+2023-02-15 22:31:04.784039 - Table USC00252100 Skipped duplicate record
+
+2023-02-15 22:31:04.785933 - Table USC00119354 Skipped duplicate record
+
+2023-02-15 22:31:04.787807 - Table USC00113335 Skipped duplicate record
+
+2023-02-15 22:31:04.789729 - Table USC00256570 Skipped duplicate record
+
+2023-02-15 22:31:04.791972 - Table USC00124837 Skipped duplicate record
+
+2023-02-15 22:31:04.794078 - Table USC00112348 Skipped duplicate record
+
+2023-02-15 22:31:04.796043 - Table USC00332791 Skipped duplicate record
+
+2023-02-15 22:31:04.798142 - Table USC00336118 Skipped duplicate record
+
+2023-02-15 22:31:04.799946 - Table USC00129080 Skipped duplicate record
+
+2023-02-15 22:31:04.802207 - Table USC00127522 Skipped duplicate record
+
+2023-02-15 22:31:04.804391 - Table USC00125337 Skipped duplicate record
+
+2023-02-15 22:31:04.806575 - Table USC00123418 Skipped duplicate record
+
+2023-02-15 22:31:04.808829 - Table USC00127482 Skipped duplicate record
+
+2023-02-15 22:31:04.811069 - Table USC00121030 Skipped duplicate record
+
+2023-02-15 22:31:04.813155 - Table USC00253185 Skipped duplicate record
+
+2023-02-15 22:31:04.815239 - Table USC00331072 Skipped duplicate record
+
+2023-02-15 22:31:04.817832 - Table USC00120676 Skipped duplicate record
+
+2023-02-15 22:31:04.819872 - Table USC00127125 Skipped duplicate record
+
+2023-02-15 22:31:04.822949 - Table USC00331890 Skipped duplicate record
+
+2023-02-15 22:31:04.826115 - Table USC00254985 Skipped duplicate record
+
+2023-02-15 22:31:04.828305 - Table USC00259090 Skipped duplicate record
+
+2023-02-15 22:33:03.651649 - Table USC00257715 Skipped duplicate record
+
+2023-02-15 22:33:03.653821 - Table USC00113879 Skipped duplicate record
+
+2023-02-15 22:33:03.655900 - Table USC00127935 Skipped duplicate record
+
+2023-02-15 22:33:03.657942 - Table USC00112193 Skipped duplicate record
+
+2023-02-15 22:33:03.660126 - Table USC00250640 Skipped duplicate record
+
+2023-02-15 22:33:03.662262 - Table USC00257070 Skipped duplicate record
+
+2023-02-15 22:33:03.664478 - Table USC00114442 Skipped duplicate record
+
+2023-02-15 22:33:03.666679 - Table USC00115833 Skipped duplicate record
+
+2023-02-15 22:33:03.668941 - Table USC00130133 Skipped duplicate record
+
+2023-02-15 22:33:03.671090 - Table USC00132724 Skipped duplicate record
+
+2023-02-15 22:33:03.672824 - Table USC00250130 Skipped duplicate record
+
+2023-02-15 22:33:03.674635 - Table USC00256970 Skipped duplicate record
+
+2023-02-15 22:33:03.676640 - Table USC00116446 Skipped duplicate record
+
+2023-02-15 22:33:03.679892 - Table USC00253175 Skipped duplicate record
+
+2023-02-15 22:33:03.683349 - Table USC00129113 Skipped duplicate record
+
+2023-02-15 22:33:03.686877 - Table USC00134142 Skipped duplicate record
+
+2023-02-15 22:33:03.689164 - Table USC00121229 Skipped duplicate record
+
+2023-02-15 22:33:03.691183 - Table USC00116526 Skipped duplicate record
+
+2023-02-15 22:33:03.693149 - Table USC00259510 Skipped duplicate record
+
+2023-02-15 22:33:03.695853 - Table USC00255470 Skipped duplicate record
+
+2023-02-15 22:33:03.698876 - Table USC00257515 Skipped duplicate record
+
+2023-02-15 22:33:03.701544 - Table USC00258395 Skipped duplicate record
+
+2023-02-15 22:33:03.703687 - Table USC00338313 Skipped duplicate record
+
+2023-02-15 22:33:03.706757 - Table USC00131402 Skipped duplicate record
+
+2023-02-15 22:33:03.709331 - Table USC00118916 Skipped duplicate record
+
+2023-02-15 22:33:03.712498 - Table USC00124181 Skipped duplicate record
+
+2023-02-15 22:33:03.715755 - Table USC00128036 Skipped duplicate record
+
+2023-02-15 22:33:03.719305 - Table USC00126580 Skipped duplicate record
+
+2023-02-15 22:33:03.722672 - Table USC00129670 Skipped duplicate record
+
+2023-02-15 22:33:03.725267 - Table USC00115943 Skipped duplicate record
+
+2023-02-15 22:33:03.726765 - Table USC00124008 Skipped duplicate record
+
+2023-02-15 22:33:03.729059 - Table USC00116910 Skipped duplicate record
+
+2023-02-15 22:33:03.732257 - Table USC00114108 Skipped duplicate record
+
+2023-02-15 22:33:03.735719 - Table USC00127298 Skipped duplicate record
+
+2023-02-15 22:33:03.738929 - Table USC00110187 Skipped duplicate record
+
+2023-02-15 22:33:03.741731 - Table USC00253365 Skipped duplicate record
+
+2023-02-15 22:33:03.743707 - Table USC00251200 Skipped duplicate record
+
+2023-02-15 22:33:03.746805 - Table USC00112140 Skipped duplicate record
+
+2023-02-15 22:33:03.750173 - Table USC00253615 Skipped duplicate record
+
+2023-02-15 22:33:03.753267 - Table USC00255310 Skipped duplicate record
+
+2023-02-15 22:33:03.756563 - Table USC00132864 Skipped duplicate record
+
+2023-02-15 22:33:03.758374 - Table USC00129511 Skipped duplicate record
+
+2023-02-15 22:33:03.760760 - Table USC00118740 Skipped duplicate record
+
+2023-02-15 22:33:03.763956 - Table USC00333780 Skipped duplicate record
+
+2023-02-15 22:33:03.765875 - Table USC00254900 Skipped duplicate record
+
+2023-02-15 22:33:03.768019 - Table USC00255565 Skipped duplicate record
+
+2023-02-15 22:33:03.769961 - Table USC00250435 Skipped duplicate record
+
+2023-02-15 22:33:03.771864 - Table USC00252020 Skipped duplicate record
+
+2023-02-15 22:33:03.773959 - Table USC00138296 Skipped duplicate record
+
+2023-02-15 22:33:03.776406 - Table USC00132977 Skipped duplicate record
+
+2023-02-15 22:33:03.779394 - Table USC00118147 Skipped duplicate record
+
+2023-02-15 22:33:03.782653 - Table USC00250622 Skipped duplicate record
+
+2023-02-15 22:33:03.786163 - Table USC00331592 Skipped duplicate record
+
+2023-02-15 22:33:03.789547 - Table USC00258915 Skipped duplicate record
+
+2023-02-15 22:33:03.792101 - Table USC00250420 Skipped duplicate record
+
+2023-02-15 22:33:03.794051 - Table USC00338830 Skipped duplicate record
+
+2023-02-15 22:33:03.795349 - Table USC00115515 Skipped duplicate record
+
+2023-02-15 22:33:03.798516 - Table USC00120784 Skipped duplicate record
+
+2023-02-15 22:33:03.801838 - Table USC00112483 Skipped duplicate record
+
+2023-02-15 22:33:03.804449 - Table USC00332098 Skipped duplicate record
+
+2023-02-15 22:33:03.806418 - Table USC00116579 Skipped duplicate record
+
+2023-02-15 22:33:03.809488 - Table USC00137979 Skipped duplicate record
+
+2023-02-15 22:33:03.811462 - Table USC00258480 Skipped duplicate record
+
+2023-02-15 22:33:03.813198 - Table USC00258133 Skipped duplicate record
+
+2023-02-15 22:33:03.815218 - Table USC00115712 Skipped duplicate record
+
+2023-02-15 22:33:03.818085 - Table USC00331152 Skipped duplicate record
+
+2023-02-15 22:33:03.821136 - Table USC00335297 Skipped duplicate record
+
+2023-02-15 22:33:03.824333 - Table USC00334189 Skipped duplicate record
+
+2023-02-15 22:33:03.826411 - Table USC00253660 Skipped duplicate record
+
+2023-02-15 22:33:03.829540 - Table USC00137161 Skipped duplicate record
+
+2023-02-15 22:33:03.832702 - Table USC00336600 Skipped duplicate record
+
+2023-02-15 22:33:03.835578 - Table USC00253715 Skipped duplicate record
+
+2023-02-15 22:33:03.838858 - Table USC00338822 Skipped duplicate record
+
+2023-02-15 22:33:03.841654 - Table USC00256135 Skipped duplicate record
+
+2023-02-15 22:33:03.844383 - Table USC00254440 Skipped duplicate record
+
+2023-02-15 22:33:03.847576 - Table USC00132999 Skipped duplicate record
+
+2023-02-15 22:33:03.849654 - Table USC00335041 Skipped duplicate record
+
+2023-02-15 22:33:03.852645 - Table USC00331541 Skipped duplicate record
+
+2023-02-15 22:33:03.855520 - Table USC00135952 Skipped duplicate record
+
+2023-02-15 22:33:03.857182 - Table USC00256040 Skipped duplicate record
+
+2023-02-15 22:33:03.859728 - Table USC00134735 Skipped duplicate record
+
+2023-02-15 22:33:03.862836 - Table USC00123513 Skipped duplicate record
+
+2023-02-15 22:33:03.866041 - Table USC00129557 Skipped duplicate record
+
+2023-02-15 22:33:03.869428 - Table USC00114198 Skipped duplicate record
+
+2023-02-15 22:33:03.872702 - Table USC00252820 Skipped duplicate record
+
+2023-02-15 22:33:03.875792 - Table USC00120177 Skipped duplicate record
+
+2023-02-15 22:33:03.879179 - Table USC00134894 Skipped duplicate record
+
+2023-02-15 22:33:03.881248 - Table USC00130600 Skipped duplicate record
+
+2023-02-15 22:33:03.884216 - Table USC00137147 Skipped duplicate record
+
+2023-02-15 22:33:03.886435 - Table USC00116610 Skipped duplicate record
+
+2023-02-15 22:33:03.889576 - Table USC00126705 Skipped duplicate record
+
+2023-02-15 22:33:03.891946 - Table USC00339312 Skipped duplicate record
+
+2023-02-15 22:33:03.893918 - Table USC00336196 Skipped duplicate record
+
+2023-02-15 22:33:03.896949 - Table USC00134063 Skipped duplicate record
+
+2023-02-15 22:33:03.899165 - Table USC00332119 Skipped duplicate record
+
+2023-02-15 22:33:03.902578 - Table USC00120200 Skipped duplicate record
+
+2023-02-15 22:33:03.905820 - Table USC00258465 Skipped duplicate record
+
+2023-02-15 22:33:03.908320 - Table USC00115326 Skipped duplicate record
+
+2023-02-15 22:33:03.910801 - Table USC00338769 Skipped duplicate record
+
+2023-02-15 22:33:03.913961 - Table USC00116558 Skipped duplicate record
+
+2023-02-15 22:33:03.917152 - Table USC00115079 Skipped duplicate record
+
+2023-02-15 22:33:03.921064 - Table USC00253735 Skipped duplicate record
+
+2023-02-15 22:33:03.924407 - Table USC00333758 Skipped duplicate record
+
+2023-02-15 22:33:03.926937 - Table USC00335315 Skipped duplicate record
+
+2023-02-15 22:33:03.930184 - Table USC00252205 Skipped duplicate record
+
+2023-02-15 22:33:03.933495 - Table USC00125237 Skipped duplicate record
+
+2023-02-15 22:33:03.937041 - Table USC00333375 Skipped duplicate record
+
+2023-02-15 22:33:03.940360 - Table USC00338552 Skipped duplicate record
+
+2023-02-15 22:33:03.943764 - Table USC00132789 Skipped duplicate record
+
+2023-02-15 22:33:03.947022 - Table USC00250375 Skipped duplicate record
+
+2023-02-15 22:33:03.950286 - Table USC00138688 Skipped duplicate record
+
+2023-02-15 22:33:03.953849 - Table USC00115901 Skipped duplicate record
+
+2023-02-15 22:33:03.955705 - Table USC00122149 Skipped duplicate record
+
+2023-02-15 22:33:03.957692 - Table USC00114823 Skipped duplicate record
+
+2023-02-15 22:33:03.959803 - Table USC00110338 Skipped duplicate record
+
+2023-02-15 22:33:03.962052 - Table USC00121873 Skipped duplicate record
+
+2023-02-15 22:33:03.965309 - Table USC00123527 Skipped duplicate record
+
+2023-02-15 22:33:03.968253 - Table USC00127755 Skipped duplicate record
+
+2023-02-15 22:33:03.971507 - Table USC00111436 Skipped duplicate record
+
+2023-02-15 22:33:03.974630 - Table USC00110072 Skipped duplicate record
+
+2023-02-15 22:33:03.976744 - Table USC00131533 Skipped duplicate record
+
+2023-02-15 22:33:03.979861 - Table USC00135769 Skipped duplicate record
+
+2023-02-15 22:33:03.983192 - Table USC00135796 Skipped duplicate record
+
+2023-02-15 22:33:03.986704 - Table USC00119241 Skipped duplicate record
+
+2023-02-15 22:33:03.990078 - Table USC00336781 Skipped duplicate record
+
+2023-02-15 22:33:03.992175 - Table USC00254110 Skipped duplicate record
+
+2023-02-15 22:33:03.995343 - Table USC00253910 Skipped duplicate record
+
+2023-02-15 22:33:03.998416 - Table USC00253630 Skipped duplicate record
+
+2023-02-15 22:33:04.000476 - Table USC00126001 Skipped duplicate record
+
+2023-02-15 22:33:04.002404 - Table USC00255080 Skipped duplicate record
+
+2023-02-15 22:33:04.004299 - Table USC00117551 Skipped duplicate record
+
+2023-02-15 22:33:04.007424 - Table USC00121747 Skipped duplicate record
+
+2023-02-15 22:33:04.009685 - Table USC00127875 Skipped duplicate record
+
+2023-02-15 22:33:04.013033 - Table USC00127646 Skipped duplicate record
+
+2023-02-15 22:33:04.015832 - Table USC00111280 Skipped duplicate record
+
+2023-02-15 22:33:04.018367 - Table USC00121425 Skipped duplicate record
+
+2023-02-15 22:33:04.021256 - Table USC00129253 Skipped duplicate record
+
+2023-02-15 22:33:04.023805 - Table USC00250070 Skipped duplicate record
+
+2023-02-15 22:33:04.027098 - Table USC00252840 Skipped duplicate record
+
+2023-02-15 22:33:04.029837 - Table USC00116738 Skipped duplicate record
+
+2023-02-15 22:33:04.031217 - Table USC00253035 Skipped duplicate record
+
+2023-02-15 22:33:04.033195 - Table USC00130112 Skipped duplicate record
+
+2023-02-15 22:33:04.035339 - Table USC00338534 Skipped duplicate record
+
+2023-02-15 22:33:04.037976 - Table USC00115768 Skipped duplicate record
+
+2023-02-15 22:33:04.041100 - Table USC00131635 Skipped duplicate record
+
+2023-02-15 22:33:04.044127 - Table USC00251145 Skipped duplicate record
+
+2023-02-15 22:33:04.046083 - Table USC00252100 Skipped duplicate record
+
+2023-02-15 22:33:04.047975 - Table USC00119354 Skipped duplicate record
+
+2023-02-15 22:33:04.051165 - Table USC00113335 Skipped duplicate record
+
+2023-02-15 22:33:04.054568 - Table USC00256570 Skipped duplicate record
+
+2023-02-15 22:33:04.057534 - Table USC00124837 Skipped duplicate record
+
+2023-02-15 22:33:04.060816 - Table USC00112348 Skipped duplicate record
+
+2023-02-15 22:33:04.063748 - Table USC00332791 Skipped duplicate record
+
+2023-02-15 22:33:04.067074 - Table USC00336118 Skipped duplicate record
+
+2023-02-15 22:33:04.069493 - Table USC00129080 Skipped duplicate record
+
+2023-02-15 22:33:04.071471 - Table USC00127522 Skipped duplicate record
+
+2023-02-15 22:33:04.073460 - Table USC00125337 Skipped duplicate record
+
+2023-02-15 22:33:04.075544 - Table USC00123418 Skipped duplicate record
+
+2023-02-15 22:33:04.077505 - Table USC00127482 Skipped duplicate record
+
+2023-02-15 22:33:04.079449 - Table USC00121030 Skipped duplicate record
+
+2023-02-15 22:33:04.082664 - Table USC00253185 Skipped duplicate record
+
+2023-02-15 22:33:04.085058 - Table USC00331072 Skipped duplicate record
+
+2023-02-15 22:33:04.087159 - Table USC00120676 Skipped duplicate record
+
+2023-02-15 22:33:04.089147 - Table USC00127125 Skipped duplicate record
+
+2023-02-15 22:33:04.091181 - Table USC00331890 Skipped duplicate record
+
+2023-02-15 22:33:04.093176 - Table USC00254985 Skipped duplicate record
+
+2023-02-15 22:33:04.094898 - Table USC00259090 Skipped duplicate record
+
+2023-02-15 22:33:04.245167 - Table USC00257715 Skipped duplicate record
+
+2023-02-15 22:33:04.247924 - Table USC00113879 Skipped duplicate record
+
+2023-02-15 22:33:04.250881 - Table USC00127935 Skipped duplicate record
+
+2023-02-15 22:33:04.253113 - Table USC00112193 Skipped duplicate record
+
+2023-02-15 22:33:04.255687 - Table USC00250640 Skipped duplicate record
+
+2023-02-15 22:33:04.258532 - Table USC00257070 Skipped duplicate record
+
+2023-02-15 22:33:04.261915 - Table USC00114442 Skipped duplicate record
+
+2023-02-15 22:33:04.264221 - Table USC00115833 Skipped duplicate record
+
+2023-02-15 22:33:04.266536 - Table USC00130133 Skipped duplicate record
+
+2023-02-15 22:33:04.269364 - Table USC00132724 Skipped duplicate record
+
+2023-02-15 22:33:04.271755 - Table USC00250130 Skipped duplicate record
+
+2023-02-15 22:33:04.274044 - Table USC00256970 Skipped duplicate record
+
+2023-02-15 22:33:04.276149 - Table USC00116446 Skipped duplicate record
+
+2023-02-15 22:33:04.278105 - Table USC00253175 Skipped duplicate record
+
+2023-02-15 22:33:04.280258 - Table USC00129113 Skipped duplicate record
+
+2023-02-15 22:33:04.282379 - Table USC00134142 Skipped duplicate record
+
+2023-02-15 22:33:04.283809 - Table USC00121229 Skipped duplicate record
+
+2023-02-15 22:33:04.286021 - Table USC00116526 Skipped duplicate record
+
+2023-02-15 22:33:04.287838 - Table USC00259510 Skipped duplicate record
+
+2023-02-15 22:33:04.289403 - Table USC00255470 Skipped duplicate record
+
+2023-02-15 22:33:04.291218 - Table USC00257515 Skipped duplicate record
+
+2023-02-15 22:33:04.293237 - Table USC00258395 Skipped duplicate record
+
+2023-02-15 22:33:04.295047 - Table USC00338313 Skipped duplicate record
+
+2023-02-15 22:33:04.296946 - Table USC00131402 Skipped duplicate record
+
+2023-02-15 22:33:04.298797 - Table USC00118916 Skipped duplicate record
+
+2023-02-15 22:33:04.300825 - Table USC00124181 Skipped duplicate record
+
+2023-02-15 22:33:04.302969 - Table USC00128036 Skipped duplicate record
+
+2023-02-15 22:33:04.305152 - Table USC00126580 Skipped duplicate record
+
+2023-02-15 22:33:04.307095 - Table USC00129670 Skipped duplicate record
+
+2023-02-15 22:33:04.309408 - Table USC00115943 Skipped duplicate record
+
+2023-02-15 22:33:04.310813 - Table USC00124008 Skipped duplicate record
+
+2023-02-15 22:33:04.312755 - Table USC00116910 Skipped duplicate record
+
+2023-02-15 22:33:04.314653 - Table USC00114108 Skipped duplicate record
+
+2023-02-15 22:33:04.316774 - Table USC00127298 Skipped duplicate record
+
+2023-02-15 22:33:04.318887 - Table USC00110187 Skipped duplicate record
+
+2023-02-15 22:33:04.320988 - Table USC00253365 Skipped duplicate record
+
+2023-02-15 22:33:04.322947 - Table USC00251200 Skipped duplicate record
+
+2023-02-15 22:33:04.325510 - Table USC00112140 Skipped duplicate record
+
+2023-02-15 22:33:04.328751 - Table USC00253615 Skipped duplicate record
+
+2023-02-15 22:33:04.331947 - Table USC00255310 Skipped duplicate record
+
+2023-02-15 22:33:04.335328 - Table USC00132864 Skipped duplicate record
+
+2023-02-15 22:33:04.337063 - Table USC00129511 Skipped duplicate record
+
+2023-02-15 22:33:04.340203 - Table USC00118740 Skipped duplicate record
+
+2023-02-15 22:33:04.342327 - Table USC00333780 Skipped duplicate record
+
+2023-02-15 22:33:04.344222 - Table USC00254900 Skipped duplicate record
+
+2023-02-15 22:33:04.347266 - Table USC00255565 Skipped duplicate record
+
+2023-02-15 22:33:04.350671 - Table USC00250435 Skipped duplicate record
+
+2023-02-15 22:33:04.354100 - Table USC00252020 Skipped duplicate record
+
+2023-02-15 22:33:04.357343 - Table USC00138296 Skipped duplicate record
+
+2023-02-15 22:33:04.359601 - Table USC00132977 Skipped duplicate record
+
+2023-02-15 22:33:04.362445 - Table USC00118147 Skipped duplicate record
+
+2023-02-15 22:33:04.365662 - Table USC00250622 Skipped duplicate record
+
+2023-02-15 22:33:04.369147 - Table USC00331592 Skipped duplicate record
+
+2023-02-15 22:33:04.372433 - Table USC00258915 Skipped duplicate record
+
+2023-02-15 22:33:04.375129 - Table USC00250420 Skipped duplicate record
+
+2023-02-15 22:33:04.378177 - Table USC00338830 Skipped duplicate record
+
+2023-02-15 22:33:04.380389 - Table USC00115515 Skipped duplicate record
+
+2023-02-15 22:33:04.383584 - Table USC00120784 Skipped duplicate record
+
+2023-02-15 22:33:04.386159 - Table USC00112483 Skipped duplicate record
+
+2023-02-15 22:33:04.388070 - Table USC00332098 Skipped duplicate record
+
+2023-02-15 22:33:04.391067 - Table USC00116579 Skipped duplicate record
+
+2023-02-15 22:33:04.393389 - Table USC00137979 Skipped duplicate record
+
+2023-02-15 22:33:04.395256 - Table USC00258480 Skipped duplicate record
+
+2023-02-15 22:33:04.397947 - Table USC00258133 Skipped duplicate record
+
+2023-02-15 22:33:04.401269 - Table USC00115712 Skipped duplicate record
+
+2023-02-15 22:33:04.403260 - Table USC00331152 Skipped duplicate record
+
+2023-02-15 22:33:04.406013 - Table USC00335297 Skipped duplicate record
+
+2023-02-15 22:33:04.408468 - Table USC00334189 Skipped duplicate record
+
+2023-02-15 22:33:04.410630 - Table USC00253660 Skipped duplicate record
+
+2023-02-15 22:33:04.412635 - Table USC00137161 Skipped duplicate record
+
+2023-02-15 22:33:04.414586 - Table USC00336600 Skipped duplicate record
+
+2023-02-15 22:33:04.416524 - Table USC00253715 Skipped duplicate record
+
+2023-02-15 22:33:04.418832 - Table USC00338822 Skipped duplicate record
+
+2023-02-15 22:33:04.420809 - Table USC00256135 Skipped duplicate record
+
+2023-02-15 22:33:04.422724 - Table USC00254440 Skipped duplicate record
+
+2023-02-15 22:33:04.425132 - Table USC00132999 Skipped duplicate record
+
+2023-02-15 22:33:04.427055 - Table USC00335041 Skipped duplicate record
+
+2023-02-15 22:33:04.430217 - Table USC00331541 Skipped duplicate record
+
+2023-02-15 22:33:04.433509 - Table USC00135952 Skipped duplicate record
+
+2023-02-15 22:33:04.436480 - Table USC00256040 Skipped duplicate record
+
+2023-02-15 22:33:04.439799 - Table USC00134735 Skipped duplicate record
+
+2023-02-15 22:33:04.442018 - Table USC00123513 Skipped duplicate record
+
+2023-02-15 22:33:04.444694 - Table USC00129557 Skipped duplicate record
+
+2023-02-15 22:33:04.447961 - Table USC00114198 Skipped duplicate record
+
+2023-02-15 22:33:04.450147 - Table USC00252820 Skipped duplicate record
+
+2023-02-15 22:33:04.453448 - Table USC00120177 Skipped duplicate record
+
+2023-02-15 22:33:04.456682 - Table USC00134894 Skipped duplicate record
+
+2023-02-15 22:33:04.458791 - Table USC00130600 Skipped duplicate record
+
+2023-02-15 22:33:04.461955 - Table USC00137147 Skipped duplicate record
+
+2023-02-15 22:33:04.465187 - Table USC00116610 Skipped duplicate record
+
+2023-02-15 22:33:04.468456 - Table USC00126705 Skipped duplicate record
+
+2023-02-15 22:33:04.471863 - Table USC00339312 Skipped duplicate record
+
+2023-02-15 22:33:04.474768 - Table USC00336196 Skipped duplicate record
+
+2023-02-15 22:33:04.476931 - Table USC00134063 Skipped duplicate record
+
+2023-02-15 22:33:04.478198 - Table USC00332119 Skipped duplicate record
+
+2023-02-15 22:33:04.481246 - Table USC00120200 Skipped duplicate record
+
+2023-02-15 22:33:04.483879 - Table USC00258465 Skipped duplicate record
+
+2023-02-15 22:33:04.487110 - Table USC00115326 Skipped duplicate record
+
+2023-02-15 22:33:04.490327 - Table USC00338769 Skipped duplicate record
+
+2023-02-15 22:33:04.492634 - Table USC00116558 Skipped duplicate record
+
+2023-02-15 22:33:04.494446 - Table USC00115079 Skipped duplicate record
+
+2023-02-15 22:33:04.497578 - Table USC00253735 Skipped duplicate record
+
+2023-02-15 22:33:04.500819 - Table USC00333758 Skipped duplicate record
+
+2023-02-15 22:33:04.504047 - Table USC00335315 Skipped duplicate record
+
+2023-02-15 22:33:04.507045 - Table USC00252205 Skipped duplicate record
+
+2023-02-15 22:33:04.509169 - Table USC00125237 Skipped duplicate record
+
+2023-02-15 22:33:04.511732 - Table USC00333375 Skipped duplicate record
+
+2023-02-15 22:33:04.514932 - Table USC00338552 Skipped duplicate record
+
+2023-02-15 22:33:04.517068 - Table USC00132789 Skipped duplicate record
+
+2023-02-15 22:33:04.520033 - Table USC00250375 Skipped duplicate record
+
+2023-02-15 22:33:04.523235 - Table USC00138688 Skipped duplicate record
+
+2023-02-15 22:33:04.525486 - Table USC00115901 Skipped duplicate record
+
+2023-02-15 22:33:04.528348 - Table USC00122149 Skipped duplicate record
+
+2023-02-15 22:33:04.531567 - Table USC00114823 Skipped duplicate record
+
+2023-02-15 22:33:04.534960 - Table USC00110338 Skipped duplicate record
+
+2023-02-15 22:33:04.537168 - Table USC00121873 Skipped duplicate record
+
+2023-02-15 22:33:04.540076 - Table USC00123527 Skipped duplicate record
+
+2023-02-15 22:33:04.542134 - Table USC00127755 Skipped duplicate record
+
+2023-02-15 22:33:04.545235 - Table USC00111436 Skipped duplicate record
+
+2023-02-15 22:33:04.548456 - Table USC00110072 Skipped duplicate record
+
+2023-02-15 22:33:04.551852 - Table USC00131533 Skipped duplicate record
+
+2023-02-15 22:33:04.553912 - Table USC00135769 Skipped duplicate record
+
+2023-02-15 22:33:04.557109 - Table USC00135796 Skipped duplicate record
+
+2023-02-15 22:33:04.559563 - Table USC00119241 Skipped duplicate record
+
+2023-02-15 22:33:04.561473 - Table USC00336781 Skipped duplicate record
+
+2023-02-15 22:33:04.564541 - Table USC00254110 Skipped duplicate record
+
+2023-02-15 22:33:04.567913 - Table USC00253910 Skipped duplicate record
+
+2023-02-15 22:33:04.570616 - Table USC00253630 Skipped duplicate record
+
+2023-02-15 22:33:04.573907 - Table USC00126001 Skipped duplicate record
+
+2023-02-15 22:33:04.576021 - Table USC00255080 Skipped duplicate record
+
+2023-02-15 22:33:04.578161 - Table USC00117551 Skipped duplicate record
+
+2023-02-15 22:33:04.581421 - Table USC00121747 Skipped duplicate record
+
+2023-02-15 22:33:04.583283 - Table USC00127875 Skipped duplicate record
+
+2023-02-15 22:33:04.585932 - Table USC00127646 Skipped duplicate record
+
+2023-02-15 22:33:04.588880 - Table USC00111280 Skipped duplicate record
+
+2023-02-15 22:33:04.590991 - Table USC00121425 Skipped duplicate record
+
+2023-02-15 22:33:04.593020 - Table USC00129253 Skipped duplicate record
+
+2023-02-15 22:33:04.595666 - Table USC00250070 Skipped duplicate record
+
+2023-02-15 22:33:04.598631 - Table USC00252840 Skipped duplicate record
+
+2023-02-15 22:33:04.601581 - Table USC00116738 Skipped duplicate record
+
+2023-02-15 22:33:04.602679 - Table USC00253035 Skipped duplicate record
+
+2023-02-15 22:33:04.604548 - Table USC00130112 Skipped duplicate record
+
+2023-02-15 22:33:04.607583 - Table USC00338534 Skipped duplicate record
+
+2023-02-15 22:33:04.610260 - Table USC00115768 Skipped duplicate record
+
+2023-02-15 22:33:04.613506 - Table USC00131635 Skipped duplicate record
+
+2023-02-15 22:33:04.616815 - Table USC00251145 Skipped duplicate record
+
+2023-02-15 22:33:04.620454 - Table USC00252100 Skipped duplicate record
+
+2023-02-15 22:33:04.623699 - Table USC00119354 Skipped duplicate record
+
+2023-02-15 22:33:04.626190 - Table USC00113335 Skipped duplicate record
+
+2023-02-15 22:33:04.628092 - Table USC00256570 Skipped duplicate record
+
+2023-02-15 22:33:04.631203 - Table USC00124837 Skipped duplicate record
+
+2023-02-15 22:33:04.634233 - Table USC00112348 Skipped duplicate record
+
+2023-02-15 22:33:04.636535 - Table USC00332791 Skipped duplicate record
+
+2023-02-15 22:33:04.639692 - Table USC00336118 Skipped duplicate record
+
+2023-02-15 22:33:04.641648 - Table USC00129080 Skipped duplicate record
+
+2023-02-15 22:33:04.643710 - Table USC00127522 Skipped duplicate record
+
+2023-02-15 22:33:04.646665 - Table USC00125337 Skipped duplicate record
+
+2023-02-15 22:33:04.649931 - Table USC00123418 Skipped duplicate record
+
+2023-02-15 22:33:04.653415 - Table USC00127482 Skipped duplicate record
+
+2023-02-15 22:33:04.656516 - Table USC00121030 Skipped duplicate record
+
+2023-02-15 22:33:04.658760 - Table USC00253185 Skipped duplicate record
+
+2023-02-15 22:33:04.661009 - Table USC00331072 Skipped duplicate record
+
+2023-02-15 22:33:04.664257 - Table USC00120676 Skipped duplicate record
+
+2023-02-15 22:33:04.666515 - Table USC00127125 Skipped duplicate record
+
+2023-02-15 22:33:04.669218 - Table USC00331890 Skipped duplicate record
+
+2023-02-15 22:33:04.672293 - Table USC00254985 Skipped duplicate record
+
+2023-02-15 22:33:04.674853 - Table USC00259090 Skipped duplicate record
+
