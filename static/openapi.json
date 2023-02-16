@@ -1,0 +1,299 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "Swagger Weather - OpenAPI 3.0",
+    "description": "This is a Weather data Server based on the OpenAPI 3.0 specification. This is the first iteration of the weather api.\n\nSome useful links:\n- [The weather data repository](https://github.com/corteva/code-challenge-template/wx_data)\n- [The source repo for the weather ingestion/analysis](https://github.com/Metelurgy93/weather-data-ingestion-analysis)",
+    "termsOfService": "http://swagger.io/terms/",
+    "contact": {
+      "email": "tayyab.md4@gmail.com"
+    },
+    "license": {
+      "name": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    },
+    "version": "1.0.11"
+  },
+  "externalDocs": {
+    "description": "Find out more about weather data",
+    "url": "https://github.com/Metelurgy93/weather-data-ingestion-analysis"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:5000"
+    }
+  ],
+  "tags": [
+    {
+      "name": "weather",
+      "description": "Get weather station max, min and precipitation"
+    },
+    {
+      "name": "weather_stats",
+      "description": "Get weather station avg_maxtemp, avg_mintemp and total_precipitation for every year"
+    }
+  ],
+  "paths": {
+    "/api/weather?station_id={station_id}": {
+      "get": {
+        "tags": [
+          "weather"
+        ],
+        "summary": "Get weather data",
+        "description": "Get weather data by station_id",
+        "operationId": "getweatherdata",
+        "parameters": [
+          {
+            "name": "station_id",
+            "in": "path",
+            "description": "ID of weather station",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "usc00000000"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/weather"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid Station ID supplied"
+          },
+          "404": {
+            "description": "Station ID not found"
+          },
+          "405": {
+            "description": "Validation exception"
+          }
+        }
+      }
+    },
+    "/api/weather?station_id={station_id}&date={date}": {
+      "get": {
+        "tags": [
+          "weather"
+        ],
+        "summary": "Get weather data",
+        "description": "Get weather data by station_id",
+        "operationId": "getweatherdata",
+        "parameters": [
+          {
+            "name": "station_id",
+            "in": "path",
+            "description": "ID of weather station",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "usc00000000"
+            }
+          },
+          {
+            "name": "date",
+            "in": "path",
+            "description": "Date of weather data",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "YYYYMMDD"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/weather"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid Station ID supplied"
+          },
+          "404": {
+            "description": "Station ID not found"
+          },
+          "405": {
+            "description": "Validation exception"
+          }
+        }
+      }
+    },
+    "/api/weather/stats?station_id={station_id}": {
+      "get": {
+        "tags": [
+          "weather_stats"
+        ],
+        "summary": "Get weather data",
+        "description": "Get weather data by station_id",
+        "operationId": "getweatherstats",
+        "parameters": [
+          {
+            "name": "station_id",
+            "in": "path",
+            "description": "ID of weather station",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uscXXXXXXXX"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/weatherstats"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid Station ID supplied"
+          },
+          "404": {
+            "description": "Station ID not found"
+          },
+          "405": {
+            "description": "Validation exception"
+          }
+        }
+      }
+    },
+    "/api/weather/stats?station_id={station_id}&date={date}": {
+      "get": {
+        "tags": [
+          "weather_stats"
+        ],
+        "summary": "Get weather data",
+        "description": "Get weather data by station_id",
+        "operationId": "getweatherstats",
+        "parameters": [
+          {
+            "name": "station_id",
+            "in": "path",
+            "description": "ID of weather station",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uscXXXXXXXX"
+            }
+          },
+          {
+            "name": "date",
+            "in": "path",
+            "description": "Date of weather data",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "YYYY"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/weatherstats"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid Station ID supplied"
+          },
+          "404": {
+            "description": "Station ID not found"
+          },
+          "405": {
+            "description": "Validation exception"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "weather": {
+        "required": [
+          "date",
+          "maxtemp",
+          "mintemp",
+          "precipitation"
+        ],
+        "type": "object",
+        "properties": {
+          "maxtemp": {
+            "type": "number",
+            "description": "maximum temp in weather data",
+            "format": "float64",
+            "example": 22.33
+          },
+          "mintemp": {
+            "type": "number",
+            "description": "minimum temp in weather data",
+            "format": "float64",
+            "example": 122.33
+          },
+          "precipitation": {
+            "type": "number",
+            "format": "float64",
+            "example": 0
+          },
+          "date": {
+            "type": "integer",
+            "format": "int64",
+            "example": 20130101
+          }
+        }
+      },
+      "weatherstats": {
+        "required": [
+          "avg_maxtemp",
+          "avg_mintemp",
+          "total_precipitation",
+          "year_dt"
+        ],
+        "type": "object",
+        "properties": {
+          "avg_maxtemp": {
+            "type": "number",
+            "description": "maximum temp in weather data",
+            "format": "float64",
+            "example": 22.33
+          },
+          "avg_mintemp": {
+            "type": "number",
+            "description": "minimum temp in weather data",
+            "format": "float64",
+            "example": 122.33
+          },
+          "total_precipitation": {
+            "type": "number",
+            "format": "float64",
+            "example": 0
+          },
+          "year_dt": {
+            "type": "integer",
+            "format": "int64",
+            "example": 2013
+          }
+        }
+      }
+    }
+  }
+}
