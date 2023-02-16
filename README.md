@@ -28,7 +28,13 @@
    > postgres=# GRANT ALL PRIVILEGES ON DATABASE databasename TO username;
 10) Connect to db
    > postgres=> \connect databasename
-
+11) Add database configuration in .env
+    <h4>database=weatherdb
+    user=tabs
+    password=tabs
+    host=localhost
+    port=5432
+   </h4>
 Finally, run the below cmd to start data ingestion/analysis
 Run the following cmd
    > python data_ingestion.py '/path/to/wx_data' '/path/to/logfile/log.txt'

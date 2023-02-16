@@ -26,6 +26,7 @@ def connect_db():
     """
     connection = psycopg2.connect(**db_params)
     cursor = connection.cursor()
+    print('Db connected')
     return connection, cursor
 
 
@@ -50,7 +51,7 @@ def ingest_weather_data(directory: str, log_file: str):
                             maxtemp numeric,
                             mintemp numeric,
                             precipitation numeric)""")
-
+                print(f'Table {table_name} created')
                 with open(os.path.join(directory, file_name), 'r') as file:
                     # Read the contents of the text file
                     contents = file.readlines()
@@ -72,6 +73,7 @@ def ingest_weather_data(directory: str, log_file: str):
                                 f"VALUES (%s, %s, %s, %s)",
                                 (datetime.strptime(row_split[0], '%Y%m%d'), float(row_split[1]),
                                  float(row_split[2]), float(row_split[3])))
+                            print(f'Inserted records into {table_name}')
                             conn.commit()
                             if i == 0 or i == len(contents) - 1:
                                 dates.append(row_split[0])
@@ -84,7 +86,7 @@ def ingest_weather_data(directory: str, log_file: str):
                             avg_maxtemp numeric,
                             avg_mintemp numeric,
                             total_precipitation numeric)""")
-
+                    print(f'Table {table_name}_stats created')
                     # Check if record already exists in the table
                     cur.execute(f"SELECT * FROM public.{table_name}_stats WHERE year_dt = %s",
                                 (contents[0].split('\t')[0][:4],))
@@ -101,6 +103,7 @@ def ingest_weather_data(directory: str, log_file: str):
                                    sum(precipitation) as total_precipitation
                             FROM public.{table_name}
                             GROUP by year_dt""")
+                        print(f'Inserted records into {table_name}_stats')
                         # commits the sql statement
                         conn.commit()
                         loging(f"Records inserted in table {table_name}_stats", log_file)
