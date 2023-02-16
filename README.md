@@ -60,11 +60,11 @@ run http://localhost:5000/swagger in your browser
 
 ### Extra credit:
 #### Assume you are asked to get your code running in the cloud using AWS. What tools and AWS services would you use to deploy the API, database, and a scheduled version of your data ingestion code? Write up a description of your approach.
-<h3> If I want to run the same code on AWS then I would use AWS Lambda, Layers, API Gateway, Amazon Aurora Db.
+<h5> If I want to run the same code on AWS then I would use AWS Lambda, Layers, API Gateway, Amazon Aurora Db.
 Using stateless configuration I will deploy Lambda with events: GET/POST, path:/api/weather
 and /api/weather/stats, layers will be used to store all the python binaries required for the lambda to run.
 Serverless.yaml will hold all the configuration for the IAM roles, Lambda and Amazon Aurora Db
 With Serverless, APIs can be created without the code to create and start flask/django which makes managing API
 simpler.
-</h3>
+</h5>
 
